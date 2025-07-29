@@ -435,7 +435,7 @@ StarterGui:SetCore("SendNotification", {
 
 StarterGui:SetCore("SendNotification", {
     Title = "Credits",
-    Text = "FGFS captain!",
+    Text = "--LUNX CHEATS--",
     Icon = content,
     Duration = 5
 })
